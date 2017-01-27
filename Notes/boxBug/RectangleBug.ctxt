@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=length\ width
+comment0.target=RectangleBug(int,\ int)
+comment0.text=\r\n\ Constructs\ a\ box\ bug\ that\ traces\ a\ square\ of\ a\ given\ side\ length\r\n\ @param\ length\ the\ side\ length\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moves\ to\ the\ next\ location\ of\ the\ square.\r\n
+comment2.params=
+comment2.target=void\ turn()
+numComments=3

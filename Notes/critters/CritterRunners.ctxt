@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ CritterRunner(java.lang.String[])
+comment1.params=args
+comment1.target=void\ ChameleonRunner(java.lang.String[])
+comment2.params=args
+comment2.target=void\ CrabRunner(java.lang.String[])
+comment3.params=args
+comment3.target=void\ ChameleonKidRunner(java.lang.String[])
+comment4.params=args
+comment4.target=void\ RockHoundRunner(java.lang.String[])
+comment5.params=args
+comment5.target=void\ BlusterCritterRunner(java.lang.String[])
+comment6.params=args
+comment6.target=void\ QuickCrabRunner(java.lang.String[])
+comment6.text=\r\n\ \ \ \ public\ static\ void\ KingCrabRunner(String[]\ args)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ ActorWorld\ world\ \=\ new\ ActorWorld();\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(7,\ 5),\ new\ Rock());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(5,\ 4),\ new\ Rock());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(5,\ 7),\ new\ Rock());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(7,\ 3),\ new\ Rock());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(7,\ 8),\ new\ Flower());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(2,\ 2),\ new\ Flower());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(3,\ 5),\ new\ Flower());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(3,\ 8),\ new\ Flower());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(6,\ 5),\ new\ Bug());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(5,\ 3),\ new\ Bug());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(4,\ 5),\ new\ KingCrab());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(6,\ 1),\ new\ KingCrab());\r\n\ \ \ \ \ \ \ \ world.add(new\ Location(7,\ 4),\ new\ KingCrab());\r\n\ \ \ \ \ \ \ \ world.show();\r\n\ \ \ \ }\r\n
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=loc1\ loc2
+comment0.target=int\ distanceFrom(info.gridworld.grid.Location,\ info.gridworld.grid.Location)
+comment1.params=actors
+comment1.target=void\ processActors(java.util.ArrayList)
+comment2.params=a
+comment2.target=boolean\ moveOne(info.gridworld.actor.Actor)
+numComments=3
