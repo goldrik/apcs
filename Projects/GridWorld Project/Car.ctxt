@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=actors
+comment0.target=void\ processActors(java.util.ArrayList)
+comment1.params=
+comment1.target=java.util.ArrayList\ getMoveLocations()
+comment2.params=locs
+comment2.target=info.gridworld.grid.Location\ selectMoveLocation(java.util.ArrayList)
+comment3.params=loc
+comment3.target=void\ makeMove(info.gridworld.grid.Location)
+comment4.params=
+comment4.target=void\ rotate()
+numComments=5
